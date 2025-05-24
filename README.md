@@ -174,16 +174,4 @@ book-review-platform/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Material-UI for the component library
-- MongoDB for the database
-- All contributors who have helped with the project
-
-## Support
-
-For support, email your-email@example.com or create an issue in the repository. 
